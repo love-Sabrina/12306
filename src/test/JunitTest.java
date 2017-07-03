@@ -30,5 +30,6 @@ public class JunitTest {
 			sb.append(line);
 		}
 		System.out.println(sb.toString());
+		System.out.println("修改代码");
 	}
 }
